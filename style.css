@@ -1,0 +1,45 @@
+  h2 {
+    color: #8B0000;
+    font-size: 23px;
+    margin: 0px;
+    background-color: #FFFAF0;
+  }
+
+  img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 110px;
+    margin: 10px;
+  }
+
+  .info{
+    width: 60%;
+    float:right;
+  }
+
+  p{
+    font-size: 15px;
+  }
+
+  dt{
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 1px;
+  }
+
+  dd{
+    margin: 1;
+    padding: 0 0 0.6em 0;
+  }
+
+  .technical {
+    width: 50%;
+    float:left;
+  }
+
+
+
+  ul{
+    font-size: 15px;
+  }
